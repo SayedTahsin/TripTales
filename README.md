@@ -8,7 +8,7 @@ Your account can be recovered incase you forgot your password.
 Splash Screen (This Screen will be shown for 5 second after boot)<br>
 <img src="https://github.com/SayedTahsin/TripTales/blob/master/assets/images/SplashScree.png" height="500">
 
-Login Screen<br>
+Login Screen
 <img src="https://github.com/SayedTahsin/TripTales/blob/master/assets/images/LoginPage.png" height="500">
 
 Forgot Password<br>
