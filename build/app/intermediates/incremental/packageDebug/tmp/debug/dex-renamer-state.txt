@@ -1,0 +1,4 @@
+#Wed Jun 07 18:32:26 BDT 2023
+base.0=D\:\\Entertainment\\code\\Flutter\\TripTales\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
